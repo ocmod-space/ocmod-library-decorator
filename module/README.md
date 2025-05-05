@@ -36,10 +36,9 @@ The `getProductsAfter` method in your module will be called with the following p
 You can then modify the `$output` variable or perform any other actions you need.
 
 ```php
-public function getProductsAfter($route, $args, $output) {
+public function getProductsAfter(&$route, &$args, &$output) {
     // Your custom code here
     // $output contains the result of the original method
-    return $output;
 }
 
 ```
