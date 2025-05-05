@@ -51,5 +51,5 @@ You can download the latest version of the Library Decorator module from the fol
 - [OpenCart 3.x](https://github.com/ocmod-space/ocmod-library-decorator/raw/refs/heads/main/module/zip/3/library_decorator.ocmod.zip) version.
 - [OpenCart 4.x](https://github.com/ocmod-space/ocmod-library-decorator/raw/refs/heads/main/module/zip/4/library_decorator.ocmod.zip) version.
 
-## OpenCart cense
+## License
 Licenced under the [MIT License](../LICENSE.txt)
