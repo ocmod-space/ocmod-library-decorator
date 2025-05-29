@@ -3,7 +3,7 @@
 ## Description
 A library decorator module for OpenCart that extends `Cart\Cart` and `Cart\Tax` classes with support for pre- and post-method events. It enables advanced modifications via the event system without changing core library files.
 
-Compatible with OpenCart 3.x/4.x (PHP ≥ 7.x).
+Compatible with OpenCart 3.x/4.x (PHP 7.x and above).
 
 ## Features
 - **Event Triggers**: The module allows you to define custom events that can be triggered before and after the execution of core library methods. This enables you to execute custom code at specific points in the method execution process.
